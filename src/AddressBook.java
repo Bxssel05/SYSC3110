@@ -24,6 +24,7 @@ public class AddressBook {
         BuddyInfo buddy = new BuddyInfo("Tom", "Carleton", 613);
         AddressBook addressBook = new AddressBook();
         addressBook.addBuddy(buddy);
+        //this is for step 17
     }
 }
 
